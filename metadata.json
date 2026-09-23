@@ -1,0 +1,6 @@
+{
+  "name": "AU Story Builder",
+  "description": "K-pop AU fanfiction builder with character creator, relationship map, plot board, AU templates, tone settings, and AI writing assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
